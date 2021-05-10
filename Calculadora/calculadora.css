@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.geral{
+    background-color: rgb(69, 77, 77);
+    width: 500px;
+    height: 600px;
+    margin: auto;
+}
+.tela{
+    width: 450px;
+    height: 60px;
+    background-color:rgb(126, 121, 122);
+    position: relative;
+    left: 5%;
+    top: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: right;
+}
+.numeros, input{
+    position: relative;
+    float: none;
+    top: 0px;
+    padding: 20px;
+    margin: 10px;
+    left: 5%;
+}
+.sinais{
+    position: relative;
+    left: 60%;
+    bottom: 86.2%;
+}
+input{
+    border-radius: 10px;
+    outline: none;
+    font-family:cursive;
+    font-size: x-large;
+}
+.igual{
+    position: relative;
+    top: -520px;
+    width: 145px;
+    left: 230px;
+}
+input.sub{
+width: 130px;
+}
